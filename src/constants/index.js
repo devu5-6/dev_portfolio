@@ -42,11 +42,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "MERN Developer",
       icon: web,
     },
     {
-      title: "ReactJS Developer",
+      title: "Full stack Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "NextJS Creator",
+      title: "Frontend Developer",
       icon: creator,
     },
   ];
@@ -172,31 +172,52 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "I thought it was impossible to make a website as beautiful as our product, but Dev proved me wrong.",
+      name: "Priyanka Sharma",
+      designation: "SDE-I",
+      company: "IBM",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "I've never met a web developer who truly cares about their clients' success like Dev does.",
+      name: "Harshit Sahu",
+      designation: "Associate Software Developer",
+      company: "Accenture",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+        "After Dev optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      name: "Aditya Pratap Singh",
+      designation: "SDE-II",
+      company: "Alphabet",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
   
   const projects = [
+    {
+      name: "Airbird",
+      description:
+        "Developed and deployed cross-platform mobile app (AirBird®) using React Native, Expo and Typescript , delivering real-time air quality insights; published on Google Play Store and Apple App Store with seamless integration to IoT sensors.",
+      tags: [
+        {
+          name: "Expo",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TailwindCSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://play.google.com/store/apps/details?id=com.leapcraft.airbirdbt",
+    },
     {
       name: "IMAGINIFY",
       description:
@@ -257,7 +278,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: carrent,
       source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
     }
   ];

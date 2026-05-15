@@ -48,8 +48,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
+        I'm a skilled software developer with experience in TypeScript,
+        JavaScript and Python, and expertise in frameworks like React, HTML/CSS, React-Native, Node.js, Git, GitHub, Expo, Bitbucket, ReactJS, Tailwind CSS, React-Native, Gluestack UI, NextJS, Express.js , Node.js, MongoDB, MySQL , GraphQL, FastAPI, Rest API, JWT, OAuth, Apache ECharts, AWS, Docker, CI/CD, Linux, Ubuntu, Postman, PostgreSQL, Svelte and
         Three.js. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
