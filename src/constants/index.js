@@ -242,7 +242,7 @@ import {
     {
       name: "Zoom Clone",
       description:
-        "Built a real-time video conferencing web application using Next.js and TypeScript",
+        "Built a real-time video conferencing web application using Next.js and TypeScript, Integrated Clerk for user authentication and GetStream for real-time chat functionality, Created responsive UI/UX design with TailwindCSS to ensure cross-device compatibility.",
       tags: [
         {
           name: "GetStream",
@@ -260,27 +260,27 @@ import {
       image: jobit,
       source_code_link: "https://github.com/devu5-2/zoom",
     },
-    {
-      name: "Contact Manager App",
-      description:
-        "Developed CRUD-based contact management app using ReactJS, Javascript, Tailwind CSS, Redux, React Router v6, and ReactQuery, providing full Create, Read, Update, and Delete (CRUD) operations for managing contact information",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
-    }
+    // {
+    //   name: "Contact Manager App",
+    //   description:
+    //     "Developed CRUD-based contact management app using ReactJS, Javascript, Tailwind CSS, Redux, React Router v6, and ReactQuery, providing full Create, Read, Update, and Delete (CRUD) operations for managing contact information",
+    //   tags: [
+    //     {
+    //       name: "nextjs",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "supabase",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: carrent,
+    //   source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
+    // }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
