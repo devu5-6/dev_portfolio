@@ -116,11 +116,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Software Developer Engineer",
+      company_name: "Artifex One",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2026 - July 2026",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,44 +129,44 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Full Stack Software Engineer",
+      company_name: "Leapcraft ApS",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Dec 2024 - Feb 2026",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Launched the cross-platform AirBird app on both the Apple App Store and Google Play Store, seamlessly connecting 50+ IoT sensors to deliver real-time air quality tracking for a growing base of 1,000+ active users.",
+        "White-labeled the core mobile application for Leapsense HVAC software, establishing a unified codebase across two distinct products that reduced ongoing development and maintenance overhead by 70%.",
+        "Scaled a Svelte web application to process and visualize 25+ live environmental metrics concurrently, securing a 95+ Google Lighthouse performance score through efficient rendering",
+        "Optimized Python analytics scripts for HVAC systems, enhancing data accuracy and automating report generation to reduce manual processing effort by 80%.",
       ],
     },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "Web Developer",
+    //   company_name: "Shopify",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "Jan 2022 - Jan 2023",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
+    // {
+    //   title: "Full stack Developer",
+    //   company_name: "Meta",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "Jan 2023 - Present",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
@@ -238,6 +238,27 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/devu5-2/imaginify",
+    },
+    {
+      name: "AI Travel Planning System",
+      description:
+        "Specialized AI agents collaborate to research real-time data, optimize routes, and build custom itineraries based on your exact constraints.",
+      tags: [
+        {
+          name: "LangGraph",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Llama 3.3 70B",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tavily",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/devu5-6/AgenticAI-Travel-Planner",    
     },
     {
       name: "Zoom Clone",
