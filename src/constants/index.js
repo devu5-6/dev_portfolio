@@ -240,7 +240,7 @@ import {
       source_code_link: "https://github.com/devu5-2/imaginify",
     },
     {
-      name: "AI Travel Planning System",
+      name: "AeroPlan AI",
       description:
         "Specialized AI agents collaborate to research real-time data, optimize routes, and build custom itineraries based on your exact constraints.",
       tags: [
