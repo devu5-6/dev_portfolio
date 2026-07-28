@@ -242,7 +242,7 @@ import {
     {
       name: "AeroPlan AI",
       description:
-        "Specialized AI agents collaborate to research real-time data, optimize routes, and build custom itineraries based on your exact constraints.",
+        "Specialized AI agents collaborate to research real-time data, optimize routes, compare travel options, and build highly personalized custom itineraries based on your exact preferences, budget, schedule, and travel constraints.",
       tags: [
         {
           name: "LangGraph",
