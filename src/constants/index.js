@@ -281,27 +281,27 @@ import {
       image: jobit,
       source_code_link: "https://github.com/devu5-2/zoom",
     },
-    // {
-    //   name: "Contact Manager App",
-    //   description:
-    //     "Developed CRUD-based contact management app using ReactJS, Javascript, Tailwind CSS, Redux, React Router v6, and ReactQuery, providing full Create, Read, Update, and Delete (CRUD) operations for managing contact information",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: carrent,
-    //   source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
-    // }
+    {
+      name: "Contact Manager App",
+      description:
+        "Developed CRUD-based contact management app using ReactJS, Javascript, Tailwind CSS, Redux, React Router v6, and ReactQuery, providing full Create, Read, Update, and Delete (CRUD) operations for managing contact information",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
