@@ -237,7 +237,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/devu5-2/imaginify",
+      source_code_link: "https://github.com/devu5-6/imaginify",
     },
     {
       name: "AeroPlan AI",
@@ -279,7 +279,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/devu5-2/zoom",
+      source_code_link: "https://github.com/devu5-6/zoom",
     },
     {
       name: "Contact Manager App",
